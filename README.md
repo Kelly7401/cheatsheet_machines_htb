@@ -94,7 +94,7 @@ Esta página web está diseñada para **visualizar de manera rápida y visual to
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/htb-dashboard.git
+git clone https://github.com/D1se0/cheatsheet_machines_htb.git
 ```
 2. Abrir `index.html` en un navegador moderno
 3. Actualizar el archivo `htb_machines_UPDATE.xlsx` según vayas completando nuevas máquinas
